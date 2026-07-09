@@ -41,3 +41,23 @@
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" height="48"/>
   </a>
 </p>
+
+## 💻 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,nodejs,flask,mongodb,mysql,git,github,vscode)](https://skillicons.dev)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Amaankhan190&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![](https://streak-stats.demolab.com?user=Amaankhan190&theme=tokyonight)
+
+## 📈 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amaankhan190&layout=compact&theme=tokyonight)
+
+## 💻 LeetCode Stats
+
+[![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/amaan_khan01?theme=tokyonight&show=graph,recent)](https://leetcode.com/u/amaan_khan01/)
