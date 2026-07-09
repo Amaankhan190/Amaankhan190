@@ -58,6 +58,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amaankhan190&layout=compact&theme=tokyonight)
 
-## 💻 LeetCode Stats
+## 💻 LeetCode
 
-[![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/amaan_khan01?theme=tokyonight&show=graph,recent)](https://leetcode.com/u/amaan_khan01/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/amaan_khan01?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/u/amaan_khan01/)
