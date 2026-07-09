@@ -27,21 +27,17 @@
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/amaan-khann/
-- Email: amaankhan19047@gmail.com
-
-## 🌐 Connect with Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/amaan-khann/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/Amaankhan190">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
-
+  <a href="https://www.linkedin.com/in/amaan-khann/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="48" height="48"/>
+  </a>
   <a href="mailto:amaankhan19047@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48"/>
   </a>
-
-  <a href="https://www.instagram.com/amaankha__n/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/amaankha__n/">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" height="48"/>
   </a>
 </p>
