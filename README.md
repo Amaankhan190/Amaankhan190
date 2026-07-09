@@ -27,5 +27,5 @@
 
 ## 📫 Connect with Me
 
-- LinkedIn: (Paste your LinkedIn link here)
+- LinkedIn: https://www.linkedin.com/in/amaan-khann/
 - Email: amaankhan19047@gmail.com
