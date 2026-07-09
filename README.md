@@ -29,3 +29,9 @@
 
 - LinkedIn: https://www.linkedin.com/in/amaan-khann/
 - Email: amaankhan19047@gmail.com
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
