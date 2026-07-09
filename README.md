@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Amaan Khan
 
-<!--
-**Amaankhan190/Amaankhan190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student
 
-Here are some ideas to get you started:
+💻 Full Stack & AI Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning React.js, Node.js, Flask, and Machine Learning
+
+🔥 Solved 250+ LeetCode Problems
+
+## 💻 Tech Stack
+
+- C++
+- Python
+- Java
+- JavaScript
+- React
+- Node.js
+- MongoDB
+- MySQL
+
+## 🚀 Projects
+
+- Smart Hotel Management Expense Tracker
+- Phishing Email Detector
+- Complaint ChartBox
+
+## 📫 Connect with Me
+
+- LinkedIn: (Paste your LinkedIn link here)
+- Email: amaankhan19047@gmail.com
